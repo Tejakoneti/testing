@@ -3,7 +3,7 @@ package com.test.testing;
 public class JavaProgramLearn {
 
 	public static void main(String[] args) {
-		System.out.println("fuck"+"in"+"g");
+		System.out.println("fucking");
 	}
 
 }
